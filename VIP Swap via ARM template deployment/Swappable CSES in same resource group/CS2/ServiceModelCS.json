@@ -23,7 +23,7 @@
     ],
     "serviceResourceGroups": [
       {
-        "azureResourceGroupName": "VipSwapRgTwo",
+        "azureResourceGroupName": "VipSwapRgOne",
         "location": "East US 2 Euap",
         "instanceOf": "CloudServiceGroupGroup2",
         "azureSubscriptionId": "<subscription-id>",
